@@ -11,6 +11,6 @@ scanf("%d" ,&monday);
 printf("how many ehubs for tuesday");
 scanf("%d",&tuesday);
 total=monday+tuesday;
-printf("%d" , total);
+printf("%d"/n , total);
 getch();
 }
